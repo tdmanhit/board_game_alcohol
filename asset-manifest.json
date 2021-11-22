@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/board_game_alcohol/static/css/main.ed6475ec.chunk.css",
+    "main.css": "/board_game_alcohol/static/css/main.c7a78c51.chunk.css",
     "main.js": "/board_game_alcohol/static/js/main.e0c4fc2a.chunk.js",
     "main.js.map": "/board_game_alcohol/static/js/main.e0c4fc2a.chunk.js.map",
     "runtime-main.js": "/board_game_alcohol/static/js/runtime-main.68c05770.js",
@@ -10,7 +10,7 @@
     "static/js/3.ff70dfd4.chunk.js": "/board_game_alcohol/static/js/3.ff70dfd4.chunk.js",
     "static/js/3.ff70dfd4.chunk.js.map": "/board_game_alcohol/static/js/3.ff70dfd4.chunk.js.map",
     "index.html": "/board_game_alcohol/index.html",
-    "static/css/main.ed6475ec.chunk.css.map": "/board_game_alcohol/static/css/main.ed6475ec.chunk.css.map",
+    "static/css/main.c7a78c51.chunk.css.map": "/board_game_alcohol/static/css/main.c7a78c51.chunk.css.map",
     "static/js/2.626df34d.chunk.js.LICENSE.txt": "/board_game_alcohol/static/js/2.626df34d.chunk.js.LICENSE.txt",
     "static/media/dang.72b969de.png": "/board_game_alcohol/static/media/dang.72b969de.png",
     "static/media/icon_soju.9e353f28.png": "/board_game_alcohol/static/media/icon_soju.9e353f28.png",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.68c05770.js",
     "static/js/2.626df34d.chunk.js",
-    "static/css/main.ed6475ec.chunk.css",
+    "static/css/main.c7a78c51.chunk.css",
     "static/js/main.e0c4fc2a.chunk.js"
   ]
 }
